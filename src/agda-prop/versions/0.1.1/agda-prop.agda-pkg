@@ -6,7 +6,7 @@ category:          [ classic, logic, theorems ]
 license:           MIT
 license-file:      LICENSE.md
 description:       Agda library to work with Classical Propositional Logic using a deep embedding.
-tested-with:       2.5.2
+tested-with:       2.5.4
 source-repository: https://github.com/jonaprieto/agda-prop.git
 depend:
   - standard-library
