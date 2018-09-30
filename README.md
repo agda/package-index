@@ -1,4 +1,4 @@
-# Package Index
+# Package Index for Agda Libraries
 
 This package index for the Agda package manager [agda-pkg](http://github.com/apkgbot/agda-pkg).
 the tool `agda-pkg`
