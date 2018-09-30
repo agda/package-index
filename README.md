@@ -1,7 +1,7 @@
 # Package Index for Agda Libraries
 
-This package index for the Agda package manager [agda-pkg](http://github.com/apkgbot/agda-pkg).
-the tool `agda-pkg`
+This is the package index for the package manager [agda-pkg](http://github.com/apkgbot/agda-pkg).
+
 
 <img src="https://github.com/apkgbot/agda-pkg/raw/master/assets/installation.gif"
  alt="agda package manager installation" width=256 align="right" />
