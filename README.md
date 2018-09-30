@@ -10,7 +10,9 @@ This is the package index for the package manager [agda-pkg](http://github.com/a
 Nowadays, if you want to make available your library, it's easy but
 you must to make a PR following the structure showed for instance
 in the folder `src/agda-prop` or `src/standard-library`.
+Otherwise, open an issue, we will try to add the package as soon as we can.
 
 In the future, we'll provide an integration with Github to make
-all this process automatically. This Github bot is already [working in progress](https://github.com/jonaprieto/agda-pkg-server).
+all this process automatically. This Github bot is already
+[working in progress](https://github.com/jonaprieto/agda-pkg-server).
 
