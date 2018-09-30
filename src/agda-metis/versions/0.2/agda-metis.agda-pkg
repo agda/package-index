@@ -1,5 +1,5 @@
 name:              agda-metis
-version:           0.1
+version:           0.2
 author:            Jonathan Prieto-Cubides
 homepage:          https://github.com/jonaprieto/agda-metis
 category:          [ classic, logic, theorems, provers ]
