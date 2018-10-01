@@ -1,5 +1,5 @@
 name:              agda-prop
-version:           0.1.1
+version:           v0.1.1
 author:            Jonathan Prieto-Cubides
 homepage:          https://github.com/jonaprieto/agda-prop
 category:          [ classic, logic, theorems ]
