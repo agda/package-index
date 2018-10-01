@@ -6,7 +6,7 @@ category:          [ classic, logic, theorems, provers ]
 license:           MIT
 license-file:      LICENSE
 description:       Functions and Theorems to prove proofs given by Metis Prover.
-tested-with:       2.5.2
+tested-with:       2.5.4
 source-repository: https://github.com/jonaprieto/agda-metis.git
 depend:
   - standard-library
