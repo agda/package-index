@@ -24,6 +24,8 @@ agda-prelude         4e0caf0              Missing.
 
 agda-prop            v0.1.2               Missing.
 
+agdarsec             v0.1.1               Missing.
+
 alga-theory          0fdb96c              Missing.
 
 fotc                 apia-1.0.2           Missing.
