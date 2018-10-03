@@ -15,23 +15,24 @@ Otherwise, open an issue, we will try to add the package as soon as we can.
 ### Libraries available
 
 ```
-Name                 Last version         
-------------------------------------------
-agda-metis           0.2                  
+$ apkg list --short
+Name                 Last version         Description
+-----------------------------------------------------
+agda-metis           v0.2.1               Missing.
 
-agda-prelude         4e0caf0              
+agda-prelude         4e0caf0              Missing.
 
-agda-prop            0.1.1                
+agda-prop            v0.1.2               Missing.
 
-alga-theory          0fdb96c              
+alga-theory          0fdb96c              Missing.
 
-fotc                 apia-1.0.2-2-g4f8f81 
+fotc                 apia-1.0.2           Missing.
 
-hott-core            937e227              
+hott-core            937e227              Missing.
 
-hott-theorems        937e2272             
+hott-theorems        937e227              Missing.
 
-standard-library     0.16.1 
+standard-library     v0.16.1              Missing.
 
 ```
 
