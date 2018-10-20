@@ -16,25 +16,25 @@ Otherwise, open an issue, we will try to add the package as soon as we can.
 
 ```
 $ apkg list --short
-Name                 Last version         Description
------------------------------------------------------
-agda-metis           v0.2.1               Missing.
+Name                 Last version 
+----------------------------------
+agda-metis           v0.2.1       
 
-agda-prelude         4e0caf0              Missing.
+agda-prelude         4e0caf0      
 
-agda-prop            v0.1.2               Missing.
+agda-prop            v0.1.2       
 
-agdarsec             v0.1.1               Missing.
+agdarsec             v0.1.1       
 
-alga-theory          0fdb96c              Missing.
+alga-theory          0fdb96c      
 
-fotc                 apia-1.0.2           Missing.
+fotc                 apia-1.0.2   
 
-hott-core            937e227              Missing.
+hott-core            937e227      
 
-hott-theorems        937e227              Missing.
+hott-theorems        937e227      
 
-standard-library     v0.16.1              Missing.
+standard-library     v0.17        
 
 ```
 
