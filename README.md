@@ -23,7 +23,10 @@ agda-metis           v0.2.1
 agda-prelude         4e0caf0      
 agda-prop            v0.1.2       
 agdarsec             v0.1.1       
-alga-theory          0fdb96c      
+alga-theory          0fdb96c
+cat                  v1.6.0
+ataca                f12efee
+cubical              0b8372d        
 fotc                 apia-1.0.2   
 hott-core            937e227      
 hott-theorems        937e227      
