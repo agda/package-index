@@ -1,15 +1,27 @@
 # Package Index for Agda Libraries
 
-This is the index for the package manager [Agda-Pkg](http://github.com/apkgbot/agda-pkg).
+This is the index of libraries for the package manager [Agda-Pkg](http://github.com/agda/agda-pkg).
 
 
-<img src="https://github.com/apkgbot/agda-pkg/raw/master/assets/installation.gif"
+<img src="https://github.com/agda/agda-pkg/raw/master/assets/installation.gif"
  alt="agda package manager installation" width=256 align="right" />
   
 
 Nowadays, if you want to make available your library, please make a PR
 following the structure showed in one of the libraries in the `src`
 folder of this repository.
+
+```
+└── standard-library
+        ├── url
+        └── versions
+            ├── v0.16.1
+            │   ├── sha1
+            │   └── standard-library.agda-lib
+            └── v0.17
+                ├── sha1
+                └── standard-library.agda-lib
+```
 
 ### Libraries included with Agda-Pkg
 
@@ -33,6 +45,7 @@ hott-theorems        937e227
 standard-library     v0.17        
 ```
 
-In the future, we'll provide an integration with Github to make
-all this process automatically. This Github bot is already
-[working in progress](https://github.com/jonaprieto/agda-pkg-server).
+In the future, we'll provide an
+[integration](https://github.com/jonaprieto/agda-pkg-server) with
+Github to make all this process automatically for indexing your
+library. For now, we must do this manually.
