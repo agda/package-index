@@ -28,7 +28,7 @@ folder of this repository.
 ```
 $ pip3 install agda-pkg
 $ apkg init
-$ apkg list --short
+$ apkg list
 Name                 Last version 
 ----------------------------------
 agda-metis           v0.2.1       
