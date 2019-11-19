@@ -1,5 +1,0 @@
-name: mtacAR
-include: 
-  src
-depend: 
-  lightweight-prelude
