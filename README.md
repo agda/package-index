@@ -1,11 +1,10 @@
 # Package Index for Agda Libraries
 
-This an index of libraries for the package manager [Agda-Pkg](http://github.com/agda/agda-pkg).
-
-
-<img src="https://github.com/agda/agda-pkg/raw/master/assets/installation.gif"
- alt="agda package manager installation" width=256 align="right" />
-  
+This repository is an index of libraries for the package manager
+[Agda-Pkg](http://github.com/agda/agda-pkg). I do the indexing
+manually at the moment, but this can change in the future. The number
+of libraries here is still small, and the libraries releases are not very
+often.
 
 This is the structure of a library in this index:
 
@@ -13,23 +12,20 @@ This is the structure of a library in this index:
 └── standard-library
   ├── url
   └── versions
-    ├── v0.16.1
+    ├── v1.4
     │ ├── sha1
     │ └── standard-library.agda-lib
-    └── v0.17
+    └── v0.5
       ├── sha1
       └── standard-library.agda-lib
 ```
 
-### Libraries for Agda-Pkg
+This index is used by [Agda-Pkg](http://github.com/agda/agda-pkg)
+to install automatically the library you want.
 
 ```
 $ pip3 install agda-pkg
 $ apkg init
-$ apkg list     
+$ apkg --help
 ```
 
-In the future, we'll provide an
-[integration](https://github.com/jonaprieto/agda-pkg-server) with
-Github to make all this process automatically for indexing your
-library. For now, we must do this manually.
